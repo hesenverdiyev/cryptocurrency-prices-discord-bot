@@ -1,7 +1,7 @@
 # cryptocurrency-prices-discord-bot
 Cryptocurrency prices bot on Discord via Coinmarketcap
 
-<img src="/bot_preview.jpg" width="100" >
+<img src="/bot_preview.jpg" width="400" >
 
 Installation :
 1. Firstly create a bot in Discord
